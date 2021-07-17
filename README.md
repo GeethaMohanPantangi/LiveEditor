@@ -8,7 +8,7 @@ CSS
 React JS
 Nodes JS
 
-**Usage**
+**Usage :**
 
 This app includes a File Explorer which has 3 buttons named Index.html, Index.css and Indexjs.
 
