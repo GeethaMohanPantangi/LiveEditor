@@ -1,10 +1,14 @@
-Live editor app makes developers life easy to work with html, CSS and Java Script front-end languages. So, we can compile, build our design and enhance our creativity.
+Live editor app makes developers life easy to work with html, CSS and JavaScript front-end languages. So, we can compile, build our design and enhance our creativity.
+
+
 Technologies used:
 HTML
 CSS
 React JS
 Nodes JS
+
 Usage
+
 This app includes a File Explorer which has 3 buttons named Index.html, Index.css and Index,js.
 By default, Index.html will be selected and html code editor will be visible beside file explorer.
 On clicking the Index.css, the CSS code editor will be opened. Similarly, on clicking Index.js, the java script code editor will be available. We can use all the three at a time.
